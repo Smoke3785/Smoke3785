@@ -1,1 +1,1 @@
-<a target="_blank" href="https://owenrossikeen.com/"><img align="left" alt="Owen Rossi-Keen. Designer, Developer, Creator." width="100%" style="padding-left: 20px;" src="./assets/ork-banner-3.png"/></a>
+<a target="_blank" href="https://owenrossikeen.com/"><img align="left" alt="Owen Rossi-Keen. Designer, Developer, Creator." width="100%" style="padding-left: 20px;" src="./assets/ork-banner-4.png"/></a>
