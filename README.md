@@ -17,7 +17,7 @@ I specialize in designing engaging web experiences for organizations with unique
 <a href="https://owenrossikeen.com/projects?Next.js">
    <img align="left" alt="Next" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </a>
-<a href="https://owenrossikeen.com/projects?back-end">
+<a href="https://owenrossikeen.com/docs">
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </a>
