@@ -1,1 +1,1 @@
-<p style="width: 100px; height: 14px; background-color: red;"></p>
+<div style="width: 100px; height: 14px; background-color: red;">Test!</div>
