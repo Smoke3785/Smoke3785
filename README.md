@@ -1,1 +1,1 @@
-<div style="padding-left: 10px">Test!</div>
+<a style="padding-left: 10px">Test!</a>
