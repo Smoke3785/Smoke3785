@@ -44,7 +44,7 @@ I specialize in designing engaging web experiences for organizations with unique
 </a>
 <br/><br/><br/>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 <a href="https://owenrossikeen.com/projects">
   <img align="center" object-position="center" width="100%" style="min-width: 600px" src="/assets/centered-projects-button.png" />
 </a>
