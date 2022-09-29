@@ -24,21 +24,22 @@ I specialize in designing engaging web experiences for organizations with unique
 <a href="https://github.com/Smoke3785">
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
+<br/><br/><br/><br/>
 
 ## Projects
 <a href="https://owenrossikeen.com/projects/github?id=0">
-  <img align="center" width="100%" style="padding-right:10px;" src="https://owenrossikeen.com/github/0.png" />
+  <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/0.png" />
 </a>
 <br/>
 <a href="https://owenrossikeen.com/projects/github?id=1">
-  <img align="center" width="100%" style="padding-right:10px;" src="https://owenrossikeen.com/github/1.png" />
+  <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/1.png" />
 </a>
 <br/>
 <a href="https://owenrossikeen.com/projects/github?id=2">
-  <img align="center" width="100%" style="padding-right:10px;" src="https://owenrossikeen.com/github/2.png" />
+  <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/2.png" />
 </a>
 <br/>
 <a href="https://owenrossikeen.com/projects/github?id=3">
-  <img align="center" width="100%" style="padding-right:10px;" src="https://owenrossikeen.com/github/3.png" />
+  <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/3.png" />
 </a>
 <br/>
