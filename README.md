@@ -44,5 +44,6 @@ I specialize in designing engaging web experiences for organizations with unique
 </a>
 <br/><br/><br/>
 
+<br/><br/><br/><br/><br/><br/>
 
 <img src="https://owenrossikeen.com/_next/static/media/orkFooter.edbe2f4b19e05357f33788d5660f743d.svg"/>
