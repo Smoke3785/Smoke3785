@@ -45,9 +45,9 @@ I specialize in designing engaging web experiences for organizations with unique
 <br/><br/><br/>
 
 <br/><br/><br/><br/><br/><br/>
-<a href="https://owenrossikeen.com/projects/github?id=3">
-  <img align="center" width="200px" style="padding-right:10px; margin-bottom: 20px" src="/assets/see-all-buttons.png" />
+<a href="https://owenrossikeen.com/projects">
+  <img align="center" width="200px" src="/assets/see-all-projects-button.png" />
 </a>
-
+<br/><br/><br/>
 
 <img src="https://owenrossikeen.com/_next/static/media/orkFooter.edbe2f4b19e05357f33788d5660f743d.svg"/>
