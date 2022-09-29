@@ -46,7 +46,7 @@ I specialize in designing engaging web experiences for organizations with unique
 
 <br/><br/><br/><br/><br/><br/>
 <a href="https://owenrossikeen.com/projects/github?id=3">
-  <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="/assets/see-all-button.png" />
+  <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="/assets/see-all-buttons.png" />
 </a>
 
 
