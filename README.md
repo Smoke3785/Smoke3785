@@ -50,6 +50,6 @@ I specialize in designing engaging web experiences for organizations with unique
 </a>
 <br/><br/><br/>
 <img align="center" object-position="center" src="https://github-readme-stats.vercel.app/api?username=smoke3785&hide=issues,prs&count_private=true&show_icons=true&title_color=9aa880&text_color=f3f3f3&hide_border=true&icon_color=9aa880&bg_color=0f0f0f&border_radius=6" />
-![Owen Rossi-Keen's GitHub stats](https://github-readme-stats.vercel.app/api?username=smoke3785&hide=issues,prs&count_private=true&show_icons=true&title_color=9aa880&text_color=f3f3f3&hide_border=true&icon_color=9aa880&bg_color=0f0f0f&border_radius=6)
+
 
 <img src="https://owenrossikeen.com/_next/static/media/orkFooter.edbe2f4b19e05357f33788d5660f743d.svg"/>
