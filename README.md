@@ -31,10 +31,6 @@ I specialize in designing engaging web experiences for organizations with unique
   <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/0.png" />
 </a>
 <br/><br/><br/>
-<a href="https://owenrossikeen.com/projects/github?id=1">
-  <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/1.png" />
-</a>
-<br/><br/><br/>
 <a href="https://owenrossikeen.com/projects/github?id=2">
   <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/2.png" />
 </a>
