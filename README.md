@@ -26,6 +26,9 @@ I specialize in designing engaging web experiences for organizations with unique
 </a>
 <br/><br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Projects
 <a href="https://owenrossikeen.com/projects/github?id=0">
   <img align="center" width="100%" style="padding-right:10px; margin-bottom: 20px" src="https://owenrossikeen.com/github/0.png" />
